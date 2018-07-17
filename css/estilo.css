@@ -13,7 +13,8 @@ section {
 
 .sub-section {
 	margin-bottom: auto;
-	margin-top: auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
 	text-align: left;
 	border-width: 1px;
 	padding: 15px;
@@ -21,6 +22,10 @@ section {
 	border-color: #dddddd;
 	border-radius: 20px;
 	background-color: #ffffff
+}
+
+.sub-section-spacing {
+	padding: 15px;
 }
 
 .img-space {

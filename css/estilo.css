@@ -1,9 +1,39 @@
+body {
+	background-color: #ffffff;
+}
+
 section {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 25px;
+	text-align: left;
+	border-radius: 20px;
 	min-height: 100vh;
 }
 
-.width-img-adjust {
-	min-width:50vw;
+.sub-section {
+	margin-bottom: auto;
+	margin-top: auto;
+	text-align: left;
+	border-width: 1px;
+	padding: 15px;
+	border-style: solid;
+	border-color: #dddddd;
+	border-radius: 20px;
+	background-color: #ffffff
+}
+
+.img-space {
+	margin-bottom: 15px;
+}
+
+.slider-img-adjust {
+	padding-top: 100px
+	min-width:100vw;
+}
+
+.center-content {
+	margin:auto;
 }
 
 .alpha-effectimg {
@@ -12,9 +42,18 @@ section {
 }
 
 .nav-padding {
-	padding-top: 50px;
+	padding-top: 60px;
 }
 
 .content-padding {
-	padding-top: 60px;
+	padding-top: 15px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  vertical-align: middle;
 }

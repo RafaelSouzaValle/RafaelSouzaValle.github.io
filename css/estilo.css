@@ -1,5 +1,5 @@
 body {
-	background-color: #f7f4ef;
+	background-color: #dedeea;
 }
 
 section {
@@ -13,30 +13,29 @@ section {
 
 .nav-logo {
 	 color: #555555;
-	 font-size: 18px;
+	 font-size: 16px;
 }
 
 .nav-logo-tag {
-	font-size: 30px;
+	font-size: 20px;
 	font-weight: bold;
 	color: #000000
 }
 
-.sub-section {
-	/*margin-bottom: auto;*/
-	margin-top: 15px;
-	margin-bottom: 15px;
+.section-row {
+	margin-bottom: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
 	text-align: left;
 	border-width: 1px;
-	padding: 15px;
 	border-style: solid;
 	border-color: #dddddd;
 	border-radius: 20px;
-	background-color: #ffffff;
-}
-
-.sub-section-spacing {
-	padding-top: 25px;
+	background-color: #f2f3f7;
+	height: 100%;
+	padding: 0px;
+	padding-bottom: 30px;
 }
 
 .sub-section-title-padding {
@@ -54,6 +53,7 @@ section {
 
 .center-content {
 	margin:auto;
+	padding: 0px;
 }
 
 .alpha-effectimg {
@@ -78,8 +78,4 @@ section {
   margin-top: auto;
   margin-bottom: auto;
   vertical-align: middle;
-}
-
-#service-item {
-	col-xs-12 col-sm-6 col-md-3 col-lg-3;
 }

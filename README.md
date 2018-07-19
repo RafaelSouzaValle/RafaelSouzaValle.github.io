@@ -1,5 +1,5 @@
 # DigiValle's website
 
-## My own's website project.
+## My own website project.
 
 ### URL: (https://RafaelSouzaValle.github.io)

@@ -1,5 +1,5 @@
 # DigiValle's website
 
-## My own website project.
+## My own website project. This Reository contains the previus version of the website.
 
-### URL: (https://RafaelSouzaValle.github.io)
+### URL to the current version: (http://digivalle.com.br)

@@ -1,5 +1,5 @@
 body {
-	background-color: #dedeea;
+	background-color: #ffffff;
 }
 
 section {
@@ -28,7 +28,7 @@ section {
 	margin-right: 0px;
 	margin-left: 0px;
 	text-align: left;
-	border-width: 1px;
+	border-width: 0px;
 	border-style: solid;
 	border-color: #dddddd;
 	border-radius: 20px;
